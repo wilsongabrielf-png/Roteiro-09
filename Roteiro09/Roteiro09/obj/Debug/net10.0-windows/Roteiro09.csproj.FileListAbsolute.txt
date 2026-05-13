@@ -1,0 +1,7 @@
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.txtName.resources
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.csproj.GenerateResource.cache
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\Roteiro09\Roteiro09\obj\Debug\net10.0-windows\Roteiro09.form.resources
